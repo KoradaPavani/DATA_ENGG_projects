@@ -73,6 +73,7 @@ Healthcare
 
 Finance
 
+Link of the above task: https://github.com/KoradaPavani/DATA_ENGG_projects/tree/main/Pentaho_Practice/Pentaho_Project/TASK1
 ### Task 2: Single Transformation – Multiple Outputs
 
 Converted CSV files into TXT, JSON, and XML formats.
@@ -81,6 +82,7 @@ Implemented transformations in a single Pentaho transformation.
 
 Understood and documented each transformation step.
 
+Link of the above task: https://github.com/KoradaPavani/DATA_ENGG_projects/tree/main/Pentaho_Practice/Pentaho_Project/TASK%202
 ### Task 3: Multiple Transformations + Job Creation
 
 Created separate transformations for:
@@ -99,6 +101,8 @@ If transformation fails → error message stored in an error folder
 
 Successful transformations routed correctly
 
+Link of the above task: https://github.com/KoradaPavani/DATA_ENGG_projects/tree/main/Pentaho_Practice/Pentaho_Project/TASK%203
+
 ### Task 4: File to Database Table
 
 Loaded:
@@ -108,6 +112,8 @@ TXT → MySQL table
 JSON → MySQL table
 
 XML → MySQL table
+
+Link of the above task: https://github.com/KoradaPavani/DATA_ENGG_projects/tree/main/Pentaho_Practice/Pentaho_Project/TASK4
 
 ### Task 5: End-to-End ETL with Notification
 
@@ -121,17 +127,22 @@ Loaded transformed data into MySQL tables
 
 Configured success email notification for successful job execution
 
+Link of the above task: https://github.com/KoradaPavani/DATA_ENGG_projects/tree/main/Pentaho_Practice/Pentaho_Project/TASK%205
 ### Task 6: Table Mapping
 
 Mapped Employee table → Patient table
 
 Implemented transformations using Pentaho mapping steps
 
+Link of the above task: https://github.com/KoradaPavani/DATA_ENGG_projects/tree/main/Pentaho_Practice/Pentaho_Project/TASK%206
+
 ### Task 7: Pentaho Parameters & Scheduling
 
 Implemented Pentaho parameters
 
 Learned job scheduling concepts
+
+Link of the above task: https://github.com/KoradaPavani/DATA_ENGG_projects/tree/main/Pentaho_Practice/Pentaho_Project/TASK%207/jobs
 
 ## MySQL & SQL Practice
 
